@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Projects/AndroidStudio/NutansT+/JUN-15-2015/Support4Demos/app/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="ThemeDialogWhenLarge" parent="android:style/Theme.Holo.DialogWhenLarge">
+    </style>
+    <style name="ThemeHolo" parent="android:Theme.Holo">
+    </style>
+    <style name="ThemeHoloLight" parent="android:Theme.Holo.Light">
+    </style>
+</resources>

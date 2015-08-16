@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-1827b8337f6bbd5c509baf5e2bd8ec58d5b7c4e5.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-860e7cd9132d742a7457d893dff4884857cea044.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-b369fbfbe1f84799d6e91fe0b6188d6327f220f6.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-3945ea7aa0ad0d21cb7dbd1d5e4f141b971c87a0.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-5ed29197457861c98876bce043b9b9ba10b15d01.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-4aaf3280468ea1286964c761c1780d88a1d741d5.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-cfd2c29bbceb9f7d1cd7cc638a799e79ab4cd82f.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-4ac5881f823ff0cd779e6bed1ca9090b499c2ace.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c72b7305d9c42d7729d66694dc984f69896a844">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-d8e16178b85353c7b61eaf0098fca20beb5d48f1.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-dddd221238d2550c7f239fae1979706742127339.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-b81d5773da7f4678572b1a017941123893fcd8cb.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-35aa3e55b422b23e4d923f5a8e6511edf4b12d62.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-98dc5a3e7a7b35c203aa23f1952aecab21017ae0.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-7ce64467b4c823593e1cc2e16f859f9c3025a775.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-c4da37d77c6937ada65605dc094c291ab0540c2b.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-45309e89151668396898de196b42f7fc725a4d82.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-05d4eaa1428d83d90d54cf08d89a793cdf7c6e4c.jar" />
+    </item>
+    <item
+        jar="F:\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support7Demos\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ea5b6eefe2ad221f1fdf1a001ac154a5a04e760a.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c72b7305d9c42d7729d66694dc984f69896a844">
+        <dex dex="E:\Projects\AndroidStudio\GoogleSamples\Support7Demos\app\build\intermediates\pre-dexed\debug\classes-370c55191000dd48a440b315b5d067b78677bd06.jar" />
+    </item>
+
+</items>

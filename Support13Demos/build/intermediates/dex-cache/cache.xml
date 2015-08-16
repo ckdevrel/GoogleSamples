@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\pre-dexed\debug\classes-4511fa7c82fc5bfb1def54fbbe8a95cc0f103cce.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\pre-dexed\debug\classes-cda0a6e34d3c3780a5adebe18f3aa0521718c46c.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-fbf102cff54e0e1d5073a9b15afdc1b1f11b9c50.jar" />
+    </item>
+    <item
+        jar="F:\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ea5b6eefe2ad221f1fdf1a001ac154a5a04e760a.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support13Demos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-4b9f21984ceedfe1cca4df363979e1a3b814e1e5.jar" />
+    </item>
+
+</items>

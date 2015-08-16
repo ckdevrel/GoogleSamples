@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\adt-bundle-windows-x86\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support4Demos\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ea5b6eefe2ad221f1fdf1a001ac154a5a04e760a.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support4Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support4Demos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-5ff7e3e9b89119db0256f035b747e3a6aa816c27.jar" />
+    </item>
+    <item
+        jar="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support4Demos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\Projects\AndroidStudio\NutansT+\JUN-15-2015\Support4Demos\app\build\intermediates\pre-dexed\debug\classes-4b1dd55786d552d76617845271d855d128f778ca.jar" />
+    </item>
+
+</items>

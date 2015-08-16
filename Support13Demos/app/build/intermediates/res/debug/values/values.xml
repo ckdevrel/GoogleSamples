@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Projects/AndroidStudio/NutansT+/JUN-15-2015/Support13Demos/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <drawable name="blue">#770000ff</drawable>
+    <drawable name="green">#7700ff00</drawable>
+    <drawable name="red">#7f00</drawable>
+    <drawable name="yellow">#77ffff00</drawable>
+    <!-- From: file:/E:/Projects/AndroidStudio/NutansT+/JUN-15-2015/Support13Demos/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_bar_tabs_pager">Fragment/Action Bar Tabs Pager</string>
+    <string name="activity_sample_code">Support v13 Demos</string>
+    <string name="alert_dialog_two_buttons_title">
+        Lorem ipsum dolor sit aie consectetur adipiscing\nPlloaso mako nuto
+        siwuf cakso dodtos anr koop.
+    </string>
+    <string name="first">First</string>
+    <string name="fragment_nesting_pager_support">Fragment/Nesting Pager</string>
+    <string name="fragment_nesting_state_pager_support">Fragment/Nesting State Pager</string>
+    <string name="fragment_pager_support">Fragment/Pager</string>
+    <string name="fragment_state_pager_support">Fragment/State Pager</string>
+    <string name="hello_world"><b>Hello, <i>World!</i></b></string>
+    <string name="last">Last</string>
+    <string name="retained">Retained state</string>
+</resources>
